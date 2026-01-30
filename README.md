@@ -2,7 +2,7 @@
   
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
   
-  <h1 align="center">Hi there, I'm <a href="https://ishaanv.vercel.app/" target="_blank">Ishaan Verma</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+  <h1 align="center">Hey, I'm <a href="https://ishaanv.vercel.app/" target="_blank">Ishaan Verma</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fxara+Code&pause=1000&color=35cedd&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React;AI+Enthusiast+%F0%9F%A4%96;Always+Learning+..." alt="Typing SVG" />
@@ -31,8 +31,6 @@
 
 I'm a final year Computer Science student at **Vellore Institute of Technology**, passionate about building scalable web applications and exploring the frontiers of AI. I recently interned at **Arrise Solutions**, where I optimized backend services and built responsive frontends. 
 
-- 🔭 I’m currently working on **AI-driven platforms**.
-- 🌱 I’m currently learning **Advanced Microservices & Cloud Native Architectures**.
 - 💬 Ask me about **Java, Spring Boot, React, and System Design**.
 - 📫 Reach me at **ishaan.verma36@gmail.com**
 
@@ -42,7 +40,7 @@ I'm a final year Computer Science student at **Vellore Institute of Technology**
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,aws,git,github,vscode,postman,idea,python,cpp,html,css,tailwind,js,ts&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,aws,git,github,postman,python,cpp,html,css,tailwind,js,ts&perline=12" />
   </a>
 </div>
 
@@ -64,7 +62,7 @@ I'm a final year Computer Science student at **Vellore Institute of Technology**
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Empowerly - HR System</h3>
+      <h3 align="center">Empowerly - Employee & HR System</h3>
       <div align="center">
           <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
           <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />

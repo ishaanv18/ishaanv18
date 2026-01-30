@@ -140,13 +140,13 @@ I'm a final year Computer Science student at **Vellore Institute of Technology**
 
 <br/>
 
-<!-- Snake Animation -->
+<!-- Unique Visuals: Profile Summary Cards -->
 <div align="center">
-  <!-- NOTE: The Snake Animation will appear once the GitHub Action runs. Please verify the workflow is active. -->
-  <img src="https://raw.githubusercontent.com/ishaanv18/ishaanv18/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishaanv18&theme=radical" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishaanv18&theme=radical" alt="Repos per Language" />
 </div>
 
-<div align="center">
-  <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ishaanv18.ishaanv18" alt="Profile Views" />
+<br/>
+
+
 </div>

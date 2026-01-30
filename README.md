@@ -134,18 +134,19 @@ I'm a final year Computer Science student at **Vellore Institute of Technology**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaanv18&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=35cedd&fire=35cedd&currStreakNum=35cedd" alt="Streak" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaanv18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=35cedd&icon_color=35cedd" height="150" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaanv18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=35cedd&icon_color=35cedd&count_private=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=ishaanv18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=35cedd&icon_color=35cedd" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-phi-five.vercel.app/api?username=ishaanv18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=35cedd&icon_color=35cedd&count_private=true" height="150" alt="Stats" />
 </div>
 
 <br/>
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/ishaanv18/ishaanv18/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <!-- NOTE: The Snake Animation will appear once the GitHub Action runs. Please verify the workflow is active. -->
+  <img src="https://raw.githubusercontent.com/ishaanv18/ishaanv18/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=ishaanv18&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ishaanv18.ishaanv18" alt="Profile Views" />
 </div>
